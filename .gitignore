@@ -1,0 +1,5 @@
+/.erlang.mk.packages.v1
+/deps
+/ebin
+/relx
+/_rel
