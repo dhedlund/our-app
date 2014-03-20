@@ -6,6 +6,7 @@
     {applications, [
         kernel,
         stdlib,
+        eredis_pool,
         cowboy
     ]},
     {mod, {our_app, []}},

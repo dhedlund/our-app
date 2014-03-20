@@ -18,4 +18,7 @@ Tools Used:
 * https://github.com/extend/erlang.mk
 * https://github.com/erlware/relx
 
+* https://github.com/dhedlund/eredis_pool/tree/erlang.mk
+
+
 A basic rebar config has also been provided if you're familiar with rebar.
